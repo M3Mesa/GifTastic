@@ -1,0 +1,53 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: #57578a;
+    margin-bottom:60px;
+}
+
+#wrap {
+    background-color: #57578a;
+    color: #750606;
+}
+
+#header {
+    background-color: yellow;
+    height:70px;
+}
+
+#title {
+    color:#421566;
+    text-align:center;
+    font-family: 'Sabon', 'Futura';
+    padding-top:16px;
+}
+
+#buttonArea{
+    margin-top:10px;
+}
+
+.btn {
+    margin:3px
+}
+
+#gifArea {
+    margin-top:20px;
+}
+
+.orangeRedBorder {
+    border-radius: 5px;
+    border:2px solid orangered;
+}
+
+.submit {
+    background-color: #57578a;
+    color: black;
+    border:2px solid black;
+}
+
+.clear {
+    clear: both;
+}
